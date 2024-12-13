@@ -22,5 +22,6 @@ public class KoordinatorApplication {
 				System.out.println("Nepoznata komanda!");
 			}
 		}
+		scanner.close();
 	}
 }
